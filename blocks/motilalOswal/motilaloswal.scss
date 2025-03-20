@@ -1,0 +1,44 @@
+// @import url('./swiper-bundle.min.css');
+@import url("../swiper/swiper-bundle.min.css");
+
+.swiper img{
+    width: auto;
+    height: auto;
+    }
+.icon{
+    size: 400px;
+}
+
+.headingimportlinks > div> p{
+    text-align: center;
+    margin-bottom: 50px;
+    font-style: initial;
+    font-size: 40px;
+    color: #15158d;
+}
+
+.icon {
+    display: inline-block;
+    height: 31px;
+    width: 40px;
+    // margin-left: 100px
+}
+
+.think-equity div{
+    //display: flex;
+    height: 400px;
+    width: 800px;
+    //justify-content: space-evenly;
+}
+.think-equity div :nth-child(2){
+  height: 200px;
+  //width: 400px;
+}
+.think-equity div > p:nth-child(1){
+   font-size: 30px;
+   color: #15158d;
+   //width: 100px;
+  }
+#proud-to-have{
+    text-align: center;
+}
