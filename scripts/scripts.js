@@ -37,7 +37,6 @@ async function loadFonts() {
     if (!window.location.hostname.includes('localhost')) sessionStorage.setItem('fonts-loaded', 'true');
   } catch (e) {
     // do nothing
-    console.log(e);
   }
 }
 
