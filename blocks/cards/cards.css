@@ -21,20 +21,7 @@
 }
 
 .cards > ul > li img {
-  /* width: 100%; */
+  width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
-}
-
-.importat-links>ul>li>div > p{
-  text-align: center;
-}
-
-.importat-links >ul{
-  display: flex;
-  justify-content: space-between;
-}
-
-.importat-links >ul>li{
-  border: none;
 }
