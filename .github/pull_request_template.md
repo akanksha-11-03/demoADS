@@ -4,5 +4,5 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--demoADS--akanksha-11-03.aem.live/
-- After: https://<branch>--demoADS--akanksha-11-03.aem.live/
+- After: https://new/project--demoADS--akanksha-11-03.aem.live/
 
