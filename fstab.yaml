@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1Z-lXfPoA5RPYB0s2qf0YXu6njppc-53K
+  /:
+    url: "https://author-p48457-e1275402.adobeaemcloud.com/bin/franklin.delivery/akanksha-11-03/demoADS/main"
+    type: "markup"
+    suffix: ".html"
